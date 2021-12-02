@@ -1,0 +1,413 @@
+2021-11-29 11:18:08.492 | ERROR    | main:add_precess_time_header:63 - <coroutine object api_auth at 0x051058E8>
+2021-11-29 11:18:08.772 | ERROR    | main:add_precess_time_header:63 - <coroutine object api_auth at 0x04ECD420>
+2021-11-29 11:18:44.662 | ERROR    | main:add_precess_time_header:63 - -----
+2021-11-29 11:18:44.665 | ERROR    | main:add_precess_time_header:64 - <coroutine object api_auth at 0x05046930>
+2021-11-29 11:18:44.666 | ERROR    | main:add_precess_time_header:65 - -----
+2021-11-29 11:18:44.785 | ERROR    | main:add_precess_time_header:63 - -----
+2021-11-29 11:18:44.787 | ERROR    | main:add_precess_time_header:64 - <coroutine object api_auth at 0x04E0E8E8>
+2021-11-29 11:18:44.789 | ERROR    | main:add_precess_time_header:65 - -----
+2021-11-29 11:20:12.147 | ERROR    | main:add_precess_time_header:63 - -----
+2021-11-29 11:20:12.149 | ERROR    | main:add_precess_time_header:64 - <coroutine object api_auth at 0x050108A0>
+2021-11-29 11:20:12.151 | ERROR    | main:add_precess_time_header:65 - -----
+2021-11-29 11:20:12.271 | ERROR    | main:add_precess_time_header:63 - -----
+2021-11-29 11:20:12.273 | ERROR    | main:add_precess_time_header:64 - <coroutine object api_auth at 0x040FFFA8>
+2021-11-29 11:20:12.275 | ERROR    | main:add_precess_time_header:65 - -----
+2021-11-29 11:20:19.738 | ERROR    | main:add_precess_time_header:63 - -----
+2021-11-29 11:20:19.740 | ERROR    | main:add_precess_time_header:64 - <coroutine object api_auth at 0x05010468>
+2021-11-29 11:20:19.742 | ERROR    | main:add_precess_time_header:65 - -----
+2021-11-29 11:20:19.817 | ERROR    | main:add_precess_time_header:63 - -----
+2021-11-29 11:20:19.820 | ERROR    | main:add_precess_time_header:64 - <coroutine object api_auth at 0x05010588>
+2021-11-29 11:20:19.822 | ERROR    | main:add_precess_time_header:65 - -----
+2021-11-29 11:20:32.980 | ERROR    | main:add_precess_time_header:63 - -----
+2021-11-29 11:20:32.983 | ERROR    | main:add_precess_time_header:64 - <coroutine object api_auth at 0x05110978>
+2021-11-29 11:20:32.985 | ERROR    | main:add_precess_time_header:65 - -----
+2021-11-29 11:20:33.094 | ERROR    | main:add_precess_time_header:63 - -----
+2021-11-29 11:20:33.096 | ERROR    | main:add_precess_time_header:64 - <coroutine object api_auth at 0x04EDC930>
+2021-11-29 11:20:33.099 | ERROR    | main:add_precess_time_header:65 - -----
+2021-11-29 11:20:41.880 | ERROR    | main:add_precess_time_header:63 - -----
+2021-11-29 11:20:41.883 | ERROR    | main:add_precess_time_header:64 - <coroutine object api_auth at 0x05110540>
+2021-11-29 11:20:41.885 | ERROR    | main:add_precess_time_header:65 - -----
+2021-11-29 11:21:14.041 | ERROR    | main:add_precess_time_header:63 - -----
+2021-11-29 11:21:14.044 | ERROR    | main:add_precess_time_header:64 - <coroutine object api_auth at 0x051105D0>
+2021-11-29 11:21:14.047 | ERROR    | main:add_precess_time_header:65 - -----
+2021-11-29 11:21:53.492 | INFO     | main:validation_exception_handler:120 - {'loc': ('body', 'ui', 'age'), 'msg': 'ensure this value is greater than 0', 'type': 'value_error.number.not_gt', 'ctx': {'limit_value': 0}}
+2021-11-29 11:21:53.496 | INFO     | main:validation_exception_handler:121 - ('body', 'ui', 'age')
+2021-11-29 11:21:53.498 | INFO     | main:validation_exception_handler:120 - {'loc': ('body', 'ui', 'sex'), 'msg': 'ensure this value is greater than 0', 'type': 'value_error.number.not_gt', 'ctx': {'limit_value': 0}}
+2021-11-29 11:21:53.500 | INFO     | main:validation_exception_handler:121 - ('body', 'ui', 'sex')
+2021-11-29 11:21:53.501 | INFO     | main:validation_exception_handler:120 - {'loc': ('body', 'uo', 'age'), 'msg': 'ensure this value is greater than 0', 'type': 'value_error.number.not_gt', 'ctx': {'limit_value': 0}}
+2021-11-29 11:21:53.503 | INFO     | main:validation_exception_handler:121 - ('body', 'uo', 'age')
+2021-11-29 11:21:53.504 | INFO     | main:validation_exception_handler:120 - {'loc': ('body', 'uo', 'sex'), 'msg': 'ensure this value is greater than 0', 'type': 'value_error.number.not_gt', 'ctx': {'limit_value': 0}}
+2021-11-29 11:21:53.506 | INFO     | main:validation_exception_handler:121 - ('body', 'uo', 'sex')
+2021-11-29 11:21:53.511 | ERROR    | main:add_precess_time_header:63 - -----
+2021-11-29 11:21:53.513 | ERROR    | main:add_precess_time_header:64 - <coroutine object api_auth at 0x05110150>
+2021-11-29 11:21:53.515 | ERROR    | main:add_precess_time_header:65 - -----
+2021-11-29 11:23:43.816 | INFO     | main:validation_exception_handler:120 - {'loc': ('body', 'ui', 'age'), 'msg': 'ensure this value is greater than 0', 'type': 'value_error.number.not_gt', 'ctx': {'limit_value': 0}}
+2021-11-29 11:23:43.819 | INFO     | main:validation_exception_handler:121 - ('body', 'ui', 'age')
+2021-11-29 11:23:43.822 | INFO     | main:validation_exception_handler:120 - {'loc': ('body', 'ui', 'sex'), 'msg': 'ensure this value is greater than 0', 'type': 'value_error.number.not_gt', 'ctx': {'limit_value': 0}}
+2021-11-29 11:23:43.824 | INFO     | main:validation_exception_handler:121 - ('body', 'ui', 'sex')
+2021-11-29 11:23:43.826 | INFO     | main:validation_exception_handler:120 - {'loc': ('body', 'uo', 'age'), 'msg': 'ensure this value is greater than 0', 'type': 'value_error.number.not_gt', 'ctx': {'limit_value': 0}}
+2021-11-29 11:23:43.829 | INFO     | main:validation_exception_handler:121 - ('body', 'uo', 'age')
+2021-11-29 11:23:43.832 | INFO     | main:validation_exception_handler:120 - {'loc': ('body', 'uo', 'sex'), 'msg': 'ensure this value is greater than 0', 'type': 'value_error.number.not_gt', 'ctx': {'limit_value': 0}}
+2021-11-29 11:23:43.836 | INFO     | main:validation_exception_handler:121 - ('body', 'uo', 'sex')
+2021-11-29 11:23:43.839 | ERROR    | main:add_precess_time_header:63 - -----
+2021-11-29 11:23:43.841 | ERROR    | main:add_precess_time_header:64 - <coroutine object api_auth at 0x04DF5E88>
+2021-11-29 11:23:43.843 | ERROR    | main:add_precess_time_header:65 - -----
+2021-11-29 11:24:24.786 | INFO     | main:validation_exception_handler:120 - {'loc': ('body', 'ui', 'age'), 'msg': 'ensure this value is greater than 0', 'type': 'value_error.number.not_gt', 'ctx': {'limit_value': 0}}
+2021-11-29 11:24:24.792 | INFO     | main:validation_exception_handler:121 - ('body', 'ui', 'age')
+2021-11-29 11:24:24.795 | INFO     | main:validation_exception_handler:120 - {'loc': ('body', 'ui', 'sex'), 'msg': 'ensure this value is greater than 0', 'type': 'value_error.number.not_gt', 'ctx': {'limit_value': 0}}
+2021-11-29 11:24:24.801 | INFO     | main:validation_exception_handler:121 - ('body', 'ui', 'sex')
+2021-11-29 11:24:24.803 | INFO     | main:validation_exception_handler:120 - {'loc': ('body', 'uo', 'age'), 'msg': 'ensure this value is greater than 0', 'type': 'value_error.number.not_gt', 'ctx': {'limit_value': 0}}
+2021-11-29 11:24:24.808 | INFO     | main:validation_exception_handler:121 - ('body', 'uo', 'age')
+2021-11-29 11:24:24.810 | INFO     | main:validation_exception_handler:120 - {'loc': ('body', 'uo', 'sex'), 'msg': 'ensure this value is greater than 0', 'type': 'value_error.number.not_gt', 'ctx': {'limit_value': 0}}
+2021-11-29 11:24:24.813 | INFO     | main:validation_exception_handler:121 - ('body', 'uo', 'sex')
+2021-11-29 11:24:24.819 | ERROR    | main:add_precess_time_header:63 - -----
+2021-11-29 11:24:24.820 | ERROR    | main:add_precess_time_header:64 - <coroutine object api_auth at 0x05526DB0>
+2021-11-29 11:24:24.823 | ERROR    | main:add_precess_time_header:65 - -----
+2021-11-29 11:25:08.842 | INFO     | main:validation_exception_handler:120 - {'loc': ('body', 'ui', 'age'), 'msg': 'ensure this value is greater than 0', 'type': 'value_error.number.not_gt', 'ctx': {'limit_value': 0}}
+2021-11-29 11:25:08.844 | INFO     | main:validation_exception_handler:121 - ('body', 'ui', 'age')
+2021-11-29 11:25:08.847 | INFO     | main:validation_exception_handler:120 - {'loc': ('body', 'ui', 'sex'), 'msg': 'ensure this value is greater than 0', 'type': 'value_error.number.not_gt', 'ctx': {'limit_value': 0}}
+2021-11-29 11:25:08.849 | INFO     | main:validation_exception_handler:121 - ('body', 'ui', 'sex')
+2021-11-29 11:25:08.850 | INFO     | main:validation_exception_handler:120 - {'loc': ('body', 'uo', 'age'), 'msg': 'ensure this value is greater than 0', 'type': 'value_error.number.not_gt', 'ctx': {'limit_value': 0}}
+2021-11-29 11:25:08.851 | INFO     | main:validation_exception_handler:121 - ('body', 'uo', 'age')
+2021-11-29 11:25:08.853 | INFO     | main:validation_exception_handler:120 - {'loc': ('body', 'uo', 'sex'), 'msg': 'ensure this value is greater than 0', 'type': 'value_error.number.not_gt', 'ctx': {'limit_value': 0}}
+2021-11-29 11:25:08.855 | INFO     | main:validation_exception_handler:121 - ('body', 'uo', 'sex')
+2021-11-29 11:25:38.494 | INFO     | main:validation_exception_handler:120 - {'loc': ('body', 'ui', 'age'), 'msg': 'ensure this value is greater than 0', 'type': 'value_error.number.not_gt', 'ctx': {'limit_value': 0}}
+2021-11-29 11:25:38.497 | INFO     | main:validation_exception_handler:121 - ('body', 'ui', 'age')
+2021-11-29 11:25:38.500 | INFO     | main:validation_exception_handler:120 - {'loc': ('body', 'ui', 'sex'), 'msg': 'ensure this value is greater than 0', 'type': 'value_error.number.not_gt', 'ctx': {'limit_value': 0}}
+2021-11-29 11:25:38.502 | INFO     | main:validation_exception_handler:121 - ('body', 'ui', 'sex')
+2021-11-29 11:25:38.504 | INFO     | main:validation_exception_handler:120 - {'loc': ('body', 'uo', 'age'), 'msg': 'ensure this value is greater than 0', 'type': 'value_error.number.not_gt', 'ctx': {'limit_value': 0}}
+2021-11-29 11:25:38.506 | INFO     | main:validation_exception_handler:121 - ('body', 'uo', 'age')
+2021-11-29 11:25:38.508 | INFO     | main:validation_exception_handler:120 - {'loc': ('body', 'uo', 'sex'), 'msg': 'ensure this value is greater than 0', 'type': 'value_error.number.not_gt', 'ctx': {'limit_value': 0}}
+2021-11-29 11:25:38.509 | INFO     | main:validation_exception_handler:121 - ('body', 'uo', 'sex')
+2021-11-29 11:26:02.704 | INFO     | main:validation_exception_handler:120 - {'loc': ('body', 'ui', 'age'), 'msg': 'ensure this value is greater than 0', 'type': 'value_error.number.not_gt', 'ctx': {'limit_value': 0}}
+2021-11-29 11:26:02.705 | INFO     | main:validation_exception_handler:121 - ('body', 'ui', 'age')
+2021-11-29 11:26:02.707 | INFO     | main:validation_exception_handler:120 - {'loc': ('body', 'ui', 'sex'), 'msg': 'ensure this value is greater than 0', 'type': 'value_error.number.not_gt', 'ctx': {'limit_value': 0}}
+2021-11-29 11:26:02.709 | INFO     | main:validation_exception_handler:121 - ('body', 'ui', 'sex')
+2021-11-29 11:26:02.710 | INFO     | main:validation_exception_handler:120 - {'loc': ('body', 'uo', 'age'), 'msg': 'ensure this value is greater than 0', 'type': 'value_error.number.not_gt', 'ctx': {'limit_value': 0}}
+2021-11-29 11:26:02.711 | INFO     | main:validation_exception_handler:121 - ('body', 'uo', 'age')
+2021-11-29 11:26:02.713 | INFO     | main:validation_exception_handler:120 - {'loc': ('body', 'uo', 'sex'), 'msg': 'ensure this value is greater than 0', 'type': 'value_error.number.not_gt', 'ctx': {'limit_value': 0}}
+2021-11-29 11:26:02.714 | INFO     | main:validation_exception_handler:121 - ('body', 'uo', 'sex')
+2021-11-29 11:27:17.785 | INFO     | main:validation_exception_handler:120 - {'loc': ('body', 'ui', 'age'), 'msg': 'ensure this value is greater than 0', 'type': 'value_error.number.not_gt', 'ctx': {'limit_value': 0}}
+2021-11-29 11:27:17.788 | INFO     | main:validation_exception_handler:121 - ('body', 'ui', 'age')
+2021-11-29 11:27:17.790 | INFO     | main:validation_exception_handler:120 - {'loc': ('body', 'ui', 'sex'), 'msg': 'ensure this value is greater than 0', 'type': 'value_error.number.not_gt', 'ctx': {'limit_value': 0}}
+2021-11-29 11:27:17.794 | INFO     | main:validation_exception_handler:121 - ('body', 'ui', 'sex')
+2021-11-29 11:27:17.795 | INFO     | main:validation_exception_handler:120 - {'loc': ('body', 'uo', 'age'), 'msg': 'ensure this value is greater than 0', 'type': 'value_error.number.not_gt', 'ctx': {'limit_value': 0}}
+2021-11-29 11:27:17.798 | INFO     | main:validation_exception_handler:121 - ('body', 'uo', 'age')
+2021-11-29 11:27:17.800 | INFO     | main:validation_exception_handler:120 - {'loc': ('body', 'uo', 'sex'), 'msg': 'ensure this value is greater than 0', 'type': 'value_error.number.not_gt', 'ctx': {'limit_value': 0}}
+2021-11-29 11:27:17.802 | INFO     | main:validation_exception_handler:121 - ('body', 'uo', 'sex')
+2021-11-29 11:27:25.775 | INFO     | main:validation_exception_handler:120 - {'loc': ('body', 'ui', 'age'), 'msg': 'ensure this value is greater than 0', 'type': 'value_error.number.not_gt', 'ctx': {'limit_value': 0}}
+2021-11-29 11:27:25.777 | INFO     | main:validation_exception_handler:121 - ('body', 'ui', 'age')
+2021-11-29 11:27:25.780 | INFO     | main:validation_exception_handler:120 - {'loc': ('body', 'ui', 'sex'), 'msg': 'ensure this value is greater than 0', 'type': 'value_error.number.not_gt', 'ctx': {'limit_value': 0}}
+2021-11-29 11:27:25.782 | INFO     | main:validation_exception_handler:121 - ('body', 'ui', 'sex')
+2021-11-29 11:27:25.784 | INFO     | main:validation_exception_handler:120 - {'loc': ('body', 'uo', 'age'), 'msg': 'ensure this value is greater than 0', 'type': 'value_error.number.not_gt', 'ctx': {'limit_value': 0}}
+2021-11-29 11:27:25.786 | INFO     | main:validation_exception_handler:121 - ('body', 'uo', 'age')
+2021-11-29 11:27:25.788 | INFO     | main:validation_exception_handler:120 - {'loc': ('body', 'uo', 'sex'), 'msg': 'ensure this value is greater than 0', 'type': 'value_error.number.not_gt', 'ctx': {'limit_value': 0}}
+2021-11-29 11:27:25.789 | INFO     | main:validation_exception_handler:121 - ('body', 'uo', 'sex')
+2021-11-29 11:27:25.791 | ERROR    | main:add_precess_time_header:63 - -----
+2021-11-29 11:27:25.796 | ERROR    | main:add_precess_time_header:64 - <coroutine object api_auth at 0x05524DF8>
+2021-11-29 11:27:25.797 | ERROR    | main:add_precess_time_header:65 - -----
+2021-11-29 11:27:29.674 | INFO     | main:validation_exception_handler:120 - {'loc': ('body', 'ui', 'age'), 'msg': 'ensure this value is greater than 0', 'type': 'value_error.number.not_gt', 'ctx': {'limit_value': 0}}
+2021-11-29 11:27:29.676 | INFO     | main:validation_exception_handler:121 - ('body', 'ui', 'age')
+2021-11-29 11:27:29.678 | INFO     | main:validation_exception_handler:120 - {'loc': ('body', 'ui', 'sex'), 'msg': 'ensure this value is greater than 0', 'type': 'value_error.number.not_gt', 'ctx': {'limit_value': 0}}
+2021-11-29 11:27:29.680 | INFO     | main:validation_exception_handler:121 - ('body', 'ui', 'sex')
+2021-11-29 11:27:29.682 | INFO     | main:validation_exception_handler:120 - {'loc': ('body', 'uo', 'age'), 'msg': 'ensure this value is greater than 0', 'type': 'value_error.number.not_gt', 'ctx': {'limit_value': 0}}
+2021-11-29 11:27:29.686 | INFO     | main:validation_exception_handler:121 - ('body', 'uo', 'age')
+2021-11-29 11:27:29.689 | INFO     | main:validation_exception_handler:120 - {'loc': ('body', 'uo', 'sex'), 'msg': 'ensure this value is greater than 0', 'type': 'value_error.number.not_gt', 'ctx': {'limit_value': 0}}
+2021-11-29 11:27:29.694 | INFO     | main:validation_exception_handler:121 - ('body', 'uo', 'sex')
+2021-11-29 11:27:29.695 | ERROR    | main:add_precess_time_header:63 - -----
+2021-11-29 11:27:29.696 | ERROR    | main:add_precess_time_header:64 - <coroutine object api_auth at 0x05787108>
+2021-11-29 11:27:29.698 | ERROR    | main:add_precess_time_header:65 - -----
+2021-11-29 11:30:30.912 | INFO     | main:validation_exception_handler:120 - {'loc': ('body', 'ui', 'age'), 'msg': 'ensure this value is greater than 0', 'type': 'value_error.number.not_gt', 'ctx': {'limit_value': 0}}
+2021-11-29 11:30:30.916 | INFO     | main:validation_exception_handler:121 - ('body', 'ui', 'age')
+2021-11-29 11:30:30.918 | INFO     | main:validation_exception_handler:120 - {'loc': ('body', 'ui', 'sex'), 'msg': 'ensure this value is greater than 0', 'type': 'value_error.number.not_gt', 'ctx': {'limit_value': 0}}
+2021-11-29 11:30:30.919 | INFO     | main:validation_exception_handler:121 - ('body', 'ui', 'sex')
+2021-11-29 11:30:30.921 | INFO     | main:validation_exception_handler:120 - {'loc': ('body', 'uo', 'age'), 'msg': 'ensure this value is greater than 0', 'type': 'value_error.number.not_gt', 'ctx': {'limit_value': 0}}
+2021-11-29 11:30:30.923 | INFO     | main:validation_exception_handler:121 - ('body', 'uo', 'age')
+2021-11-29 11:30:30.924 | INFO     | main:validation_exception_handler:120 - {'loc': ('body', 'uo', 'sex'), 'msg': 'ensure this value is greater than 0', 'type': 'value_error.number.not_gt', 'ctx': {'limit_value': 0}}
+2021-11-29 11:30:30.925 | INFO     | main:validation_exception_handler:121 - ('body', 'uo', 'sex')
+2021-11-29 11:30:30.927 | ERROR    | main:add_precess_time_header:63 - -----
+2021-11-29 11:30:30.932 | ERROR    | main:add_precess_time_header:64 - <starlette.responses.JSONResponse object at 0x051629D0>
+2021-11-29 11:30:30.934 | ERROR    | main:add_precess_time_header:65 - -----
+2021-11-29 11:32:20.852 | INFO     | main:validation_exception_handler:120 - {'loc': ('body', 'ui', 'age'), 'msg': 'ensure this value is greater than 0', 'type': 'value_error.number.not_gt', 'ctx': {'limit_value': 0}}
+2021-11-29 11:32:20.855 | INFO     | main:validation_exception_handler:121 - ('body', 'ui', 'age')
+2021-11-29 11:32:20.857 | INFO     | main:validation_exception_handler:120 - {'loc': ('body', 'ui', 'sex'), 'msg': 'ensure this value is greater than 0', 'type': 'value_error.number.not_gt', 'ctx': {'limit_value': 0}}
+2021-11-29 11:32:20.859 | INFO     | main:validation_exception_handler:121 - ('body', 'ui', 'sex')
+2021-11-29 11:32:20.860 | INFO     | main:validation_exception_handler:120 - {'loc': ('body', 'uo', 'age'), 'msg': 'ensure this value is greater than 0', 'type': 'value_error.number.not_gt', 'ctx': {'limit_value': 0}}
+2021-11-29 11:32:20.862 | INFO     | main:validation_exception_handler:121 - ('body', 'uo', 'age')
+2021-11-29 11:32:20.863 | INFO     | main:validation_exception_handler:120 - {'loc': ('body', 'uo', 'sex'), 'msg': 'ensure this value is greater than 0', 'type': 'value_error.number.not_gt', 'ctx': {'limit_value': 0}}
+2021-11-29 11:32:20.865 | INFO     | main:validation_exception_handler:121 - ('body', 'uo', 'sex')
+2021-11-29 11:32:20.867 | ERROR    | main:add_precess_time_header:63 - -----
+2021-11-29 11:32:20.872 | ERROR    | main:add_precess_time_header:64 - (False, 'app not exists')
+2021-11-29 11:32:20.874 | ERROR    | main:add_precess_time_header:65 - -----
+2021-11-29 11:32:37.947 | ERROR    | main:add_precess_time_header:63 - -----
+2021-11-29 11:32:37.950 | ERROR    | main:add_precess_time_header:64 - (False, 'app not exists')
+2021-11-29 11:32:37.952 | ERROR    | main:add_precess_time_header:65 - -----
+2021-11-29 11:33:16.694 | INFO     | common.appid_auth:api_auth:28 - {'id': '1', 'q': 'bar'}
+2021-11-29 11:33:16.698 | ERROR    | main:add_precess_time_header:63 - -----
+2021-11-29 11:33:16.700 | ERROR    | main:add_precess_time_header:64 - (False, 'app not exists')
+2021-11-29 11:33:16.702 | ERROR    | main:add_precess_time_header:65 - -----
+2021-11-29 11:33:45.503 | INFO     | common.appid_auth:api_auth:28 - {'id': '1', 'q': 'bar'}
+2021-11-29 11:37:17.861 | INFO     | common.appid_auth:api_auth:28 - {'id': '1', 'q': 'bar'}
+2021-11-29 11:37:32.065 | INFO     | common.appid_auth:api_auth:28 - {'id': '1', 'q': 'bar'}
+2021-11-29 11:41:28.879 | INFO     | common.appid_auth:api_auth:28 - {'id': '1', 'q': 'bar'}
+2021-11-29 11:41:28.881 | INFO     | common.appid_auth:api_auth:29 - {'host': 'localhost:5005', 'connection': 'keep-alive', 'content-length': '414', 'sec-ch-ua': '" Not A;Brand";v="99", "Chromium";v="96", "Google Chrome";v="96"', 'accept': 'application/json', 'content-type': 'application/json', 'sec-ch-ua-mobile': '?0', 'user-agent': 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Safari/537.36', 'sec-ch-ua-platform': '"Windows"', 'origin': 'http://localhost:5005', 'sec-fetch-site': 'same-origin', 'sec-fetch-mode': 'cors', 'sec-fetch-dest': 'empty', 'referer': 'http://localhost:5005/docs', 'accept-encoding': 'gzip, deflate, br', 'accept-language': 'zh-CN,zh;q=0.9,en;q=0.8,ja;q=0.7'}
+2021-11-29 11:41:28.883 | ERROR    | main:add_precess_time_header:63 - -----
+2021-11-29 11:41:28.885 | ERROR    | main:add_precess_time_header:64 - (False, 'app not exists')
+2021-11-29 11:41:28.886 | ERROR    | main:add_precess_time_header:65 - -----
+2021-11-29 11:49:28.775 | ERROR    | main:add_precess_time_header:63 - -----
+2021-11-29 11:49:28.778 | ERROR    | main:add_precess_time_header:64 - (False, 'app not exists')
+2021-11-29 11:49:28.779 | ERROR    | main:add_precess_time_header:65 - -----
+2021-11-29 11:52:26.138 | ERROR    | main:add_precess_time_header:63 - -----
+2021-11-29 11:52:26.141 | ERROR    | main:add_precess_time_header:64 - (False, 'app not exists')
+2021-11-29 11:52:26.147 | ERROR    | main:add_precess_time_header:65 - <coroutine object Request.json at 0x059B5B28>
+2021-11-29 11:52:26.149 | ERROR    | main:add_precess_time_header:66 - -----
+2021-11-29 11:52:27.050 | ERROR    | main:add_precess_time_header:63 - -----
+2021-11-29 11:52:27.052 | ERROR    | main:add_precess_time_header:64 - (False, 'app not exists')
+2021-11-29 11:52:27.054 | ERROR    | main:add_precess_time_header:65 - <coroutine object Request.json at 0x059B5540>
+2021-11-29 11:52:27.057 | ERROR    | main:add_precess_time_header:66 - -----
+2021-11-29 11:53:16.398 | ERROR    | main:add_precess_time_header:63 - -----
+2021-11-29 11:53:16.400 | ERROR    | main:add_precess_time_header:64 - (False, 'app not exists')
+2021-11-29 11:53:16.405 | ERROR    | main:add_precess_time_header:65 - <coroutine object Request.form at 0x04922B70>
+2021-11-29 11:53:16.407 | ERROR    | main:add_precess_time_header:66 - -----
+2021-11-29 11:53:55.338 | ERROR    | main:add_precess_time_header:64 - -----
+2021-11-29 11:53:55.340 | ERROR    | main:add_precess_time_header:65 - (False, 'app not exists')
+2021-11-29 11:53:55.342 | ERROR    | main:add_precess_time_header:66 - FormData([])
+2021-11-29 11:53:55.344 | ERROR    | main:add_precess_time_header:67 - -----
+2021-11-29 11:55:08.738 | ERROR    | main:add_precess_time_header:64 - -----
+2021-11-29 11:55:08.740 | ERROR    | main:add_precess_time_header:65 - (False, 'app not exists')
+2021-11-29 11:55:08.742 | ERROR    | main:add_precess_time_header:66 - FormData([])
+2021-11-29 11:55:08.743 | ERROR    | main:add_precess_time_header:67 - -----
+2021-11-29 11:56:11.693 | ERROR    | main:add_precess_time_header:64 - -----
+2021-11-29 11:56:11.696 | ERROR    | main:add_precess_time_header:65 - (False, 'app not exists')
+2021-11-29 11:56:11.699 | ERROR    | main:add_precess_time_header:66 - FormData([])
+2021-11-29 11:56:11.701 | ERROR    | main:add_precess_time_header:67 - {'type': 'http', 'asgi': {'version': '3.0', 'spec_version': '2.1'}, 'http_version': '1.1', 'server': ('127.0.0.1', 5005), 'client': ('127.0.0.1', 62895), 'scheme': 'http', 'method': 'POST', 'root_path': '', 'path': '/user/update', 'raw_path': b'/user/update', 'query_string': b'id=1&q=foo&q=bar', 'headers': [(b'host', b'localhost:5005'), (b'connection', b'keep-alive'), (b'content-length', b'414'), (b'sec-ch-ua', b'" Not A;Brand";v="99", "Chromium";v="96", "Google Chrome";v="96"'), (b'accept', b'application/json'), (b'content-type', b'application/json'), (b'sec-ch-ua-mobile', b'?0'), (b'user-agent', b'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Safari/537.36'), (b'sec-ch-ua-platform', b'"Windows"'), (b'origin', b'http://localhost:5005'), (b'sec-fetch-site', b'same-origin'), (b'sec-fetch-mode', b'cors'), (b'sec-fetch-dest', b'empty'), (b'referer', b'http://localhost:5005/docs'), (b'accept-encoding', b'gzip, deflate, br'), (b'accept-language', b'zh-CN,zh;q=0.9,en;q=0.8,ja;q=0.7')], 'fastapi_astack': <contextlib.AsyncExitStack object at 0x04A18FF0>, 'app': <fastapi.applications.FastAPI object at 0x049E8870>, 'router': <fastapi.routing.APIRouter object at 0x049E88B0>, 'endpoint': <function update at 0x046E2E40>, 'path_params': {}}
+2021-11-29 11:56:11.703 | ERROR    | main:add_precess_time_header:68 - -----
+2021-11-29 11:57:34.963 | ERROR    | main:add_precess_time_header:64 - -----
+2021-11-29 11:57:34.967 | ERROR    | main:add_precess_time_header:65 - (False, 'app not exists')
+2021-11-29 11:57:34.969 | ERROR    | main:add_precess_time_header:66 - FormData([])
+2021-11-29 11:58:17.110 | ERROR    | main:add_precess_time_header:64 - -----
+2021-11-29 11:58:17.113 | ERROR    | main:add_precess_time_header:65 - (False, 'app not exists')
+2021-11-29 11:58:17.116 | ERROR    | main:add_precess_time_header:66 - FormData([])
+2021-11-29 11:58:17.117 | ERROR    | main:add_precess_time_header:67 - {'version': '3.0', 'spec_version': '2.1'}
+2021-11-29 11:58:17.119 | ERROR    | main:add_precess_time_header:68 - -----
+2021-11-29 11:58:32.436 | ERROR    | main:add_precess_time_header:64 - -----
+2021-11-29 11:58:32.439 | ERROR    | main:add_precess_time_header:65 - (False, 'app not exists')
+2021-11-29 11:58:32.441 | ERROR    | main:add_precess_time_header:66 - FormData([])
+2021-11-29 11:58:32.442 | ERROR    | main:add_precess_time_header:67 - /user/update
+2021-11-29 11:58:32.444 | ERROR    | main:add_precess_time_header:68 - -----
+2021-11-29 11:58:54.897 | ERROR    | main:add_precess_time_header:64 - -----
+2021-11-29 11:58:54.899 | ERROR    | main:add_precess_time_header:65 - (False, 'app not exists')
+2021-11-29 11:58:54.901 | ERROR    | main:add_precess_time_header:66 - FormData([])
+2021-11-29 11:58:54.903 | ERROR    | main:add_precess_time_header:67 - {'type': 'http', 'asgi': {'version': '3.0', 'spec_version': '2.1'}, 'http_version': '1.1', 'server': ('127.0.0.1', 5005), 'client': ('127.0.0.1', 63482), 'scheme': 'http', 'method': 'POST', 'root_path': '', 'path': '/user/update', 'raw_path': b'/user/update', 'query_string': b'id=1&q=foo&q=bar', 'headers': [(b'host', b'localhost:5005'), (b'connection', b'keep-alive'), (b'content-length', b'414'), (b'sec-ch-ua', b'" Not A;Brand";v="99", "Chromium";v="96", "Google Chrome";v="96"'), (b'accept', b'application/json'), (b'content-type', b'application/json'), (b'sec-ch-ua-mobile', b'?0'), (b'user-agent', b'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Safari/537.36'), (b'sec-ch-ua-platform', b'"Windows"'), (b'origin', b'http://localhost:5005'), (b'sec-fetch-site', b'same-origin'), (b'sec-fetch-mode', b'cors'), (b'sec-fetch-dest', b'empty'), (b'referer', b'http://localhost:5005/docs'), (b'accept-encoding', b'gzip, deflate, br'), (b'accept-language', b'zh-CN,zh;q=0.9,en;q=0.8,ja;q=0.7')], 'fastapi_astack': <contextlib.AsyncExitStack object at 0x04FA8E70>, 'app': <fastapi.applications.FastAPI object at 0x04F78910>, 'router': <fastapi.routing.APIRouter object at 0x04F78950>, 'endpoint': <function update at 0x04C70E88>, 'path_params': {}}
+2021-11-29 11:58:54.905 | ERROR    | main:add_precess_time_header:68 - /user/update
+2021-11-29 11:58:54.906 | ERROR    | main:add_precess_time_header:69 - -----
+2021-11-29 14:18:22.708 | ERROR    | main:add_precess_time_header:65 - (False, 'app not exists')
+2021-11-29 14:18:22.710 | ERROR    | main:add_precess_time_header:66 - FormData([])
+2021-11-29 14:18:22.712 | ERROR    | main:add_precess_time_header:67 - {'type': 'http', 'asgi': {'version': '3.0', 'spec_version': '2.1'}, 'http_version': '1.1', 'server': ('127.0.0.1', 5005), 'client': ('127.0.0.1', 27774), 'scheme': 'http', 'method': 'POST', 'root_path': '', 'path': '/user/update', 'raw_path': b'/user/update', 'query_string': b'id=1&q=foo&q=bar', 'headers': [(b'host', b'localhost:5005'), (b'connection', b'keep-alive'), (b'content-length', b'414'), (b'sec-ch-ua', b'" Not A;Brand";v="99", "Chromium";v="96", "Google Chrome";v="96"'), (b'accept', b'application/json'), (b'content-type', b'application/json'), (b'sec-ch-ua-mobile', b'?0'), (b'user-agent', b'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Safari/537.36'), (b'sec-ch-ua-platform', b'"Windows"'), (b'origin', b'http://localhost:5005'), (b'sec-fetch-site', b'same-origin'), (b'sec-fetch-mode', b'cors'), (b'sec-fetch-dest', b'empty'), (b'referer', b'http://localhost:5005/docs'), (b'accept-encoding', b'gzip, deflate, br'), (b'accept-language', b'zh-CN,zh;q=0.9,en;q=0.8,ja;q=0.7')], 'fastapi_astack': <contextlib.AsyncExitStack object at 0x053E8070>, 'app': <fastapi.applications.FastAPI object at 0x05179C30>, 'router': <fastapi.routing.APIRouter object at 0x05179C70>, 'endpoint': <function update at 0x04E71E40>, 'path_params': {}}
+2021-11-29 14:18:22.716 | ERROR    | main:add_precess_time_header:68 - /user/update
+2021-11-29 14:18:22.718 | ERROR    | main:add_precess_time_header:69 - -----
+2021-11-29 14:18:30.886 | ERROR    | main:add_precess_time_header:65 - (False, 'app not exists')
+2021-11-29 14:18:30.889 | ERROR    | main:add_precess_time_header:66 - FormData([])
+2021-11-29 14:18:30.892 | ERROR    | main:add_precess_time_header:68 - /user/update
+2021-11-29 14:18:30.895 | ERROR    | main:add_precess_time_header:69 - -----
+2021-11-29 14:19:08.890 | ERROR    | main:add_precess_time_header:64 - -----
+2021-11-29 14:19:08.894 | ERROR    | main:add_precess_time_header:65 - (False, 'app not exists')
+2021-11-29 14:19:08.896 | ERROR    | main:add_precess_time_header:66 - FormData([])
+2021-11-29 14:19:08.899 | ERROR    | main:add_precess_time_header:68 - /user/update
+2021-11-29 14:19:08.901 | ERROR    | main:add_precess_time_header:69 - -----
+2021-11-29 14:32:36.100 | INFO     | main:validation_exception_handler:125 - ('query', 'id')
+2021-11-29 14:32:36.104 | INFO     | main:validation_exception_handler:124 - {'loc': ('body', 'ui'), 'msg': 'field required', 'type': 'value_error.missing'}
+2021-11-29 14:32:36.109 | INFO     | main:validation_exception_handler:125 - ('body', 'ui')
+2021-11-29 14:32:36.111 | INFO     | main:validation_exception_handler:124 - {'loc': ('body', 'uo'), 'msg': 'field required', 'type': 'value_error.missing'}
+2021-11-29 14:32:36.113 | INFO     | main:validation_exception_handler:125 - ('body', 'uo')
+2021-11-29 14:32:36.114 | INFO     | main:validation_exception_handler:124 - {'loc': ('body', 'id2'), 'msg': 'field required', 'type': 'value_error.missing'}
+2021-11-29 14:32:36.116 | INFO     | main:validation_exception_handler:125 - ('body', 'id2')
+2021-11-29 14:32:36.117 | ERROR    | main:add_precess_time_header:64 - -----
+2021-11-29 14:32:36.119 | ERROR    | main:add_precess_time_header:65 - (False, 'app not exists')
+2021-11-29 14:32:36.120 | ERROR    | main:add_precess_time_header:69 - -----
+2021-11-29 14:33:03.836 | INFO     | main:validation_exception_handler:125 - ('body', 0)
+2021-11-29 14:34:05.539 | INFO     | main:validation_exception_handler:126 - {'loc': ('body', 0), 'msg': 'Expecting value: line 1 column 1 (char 0)', 'type': 'value_error.jsondecode', 'ctx': {'msg': 'Expecting value', 'doc': 'ui=username&ui=password&ui=email&ui=full_name&ui=age&ui=sex&uo=username&uo=password&uo=email&uo=full_name&uo=age&uo=sex&uo=menus&id2=0', 'pos': 0, 'lineno': 1, 'colno': 1}}
+2021-11-29 14:34:05.545 | INFO     | main:validation_exception_handler:127 - ('body', 0)
+2021-11-29 14:35:48.884 | INFO     | main:validation_exception_handler:126 - {'loc': ('body', 0), 'msg': 'Expecting value: line 1 column 1 (char 0)', 'type': 'value_error.jsondecode', 'ctx': {'msg': 'Expecting value', 'doc': 'ui=username&ui=password&ui=email&ui=full_name&ui=age&ui=sex&uo=username&uo=password&uo=email&uo=full_name&uo=age&uo=sex&uo=menus&id2=0', 'pos': 0, 'lineno': 1, 'colno': 1}}
+2021-11-29 14:35:48.888 | INFO     | main:validation_exception_handler:127 - ('body', 0)
+2021-11-29 14:36:31.257 | INFO     | main:validation_exception_handler:126 - {'loc': ('body', 0), 'msg': 'Expecting value: line 1 column 1 (char 0)', 'type': 'value_error.jsondecode', 'ctx': {'msg': 'Expecting value', 'doc': 'ui=username&ui=password&ui=email&ui=full_name&ui=age&ui=sex&uo=username&uo=password&uo=email&uo=full_name&uo=age&uo=sex&uo=menus&id2=0', 'pos': 0, 'lineno': 1, 'colno': 1}}
+2021-11-29 14:36:31.259 | INFO     | main:validation_exception_handler:127 - ('body', 0)
+2021-11-29 14:37:00.515 | INFO     | main:validation_exception_handler:127 - ('body', 0)
+2021-11-29 14:37:00.519 | ERROR    | main:add_precess_time_header:64 - -----
+2021-11-29 14:37:00.527 | ERROR    | main:add_precess_time_header:65 - (False, 'app not exists')
+2021-11-29 14:37:00.533 | ERROR    | main:add_precess_time_header:69 - -----
+2021-11-29 14:38:48.060 | INFO     | main:validation_exception_handler:127 - ('body', 0)
+2021-11-29 14:38:48.063 | ERROR    | main:add_precess_time_header:64 - -----
+2021-11-29 14:38:48.070 | ERROR    | main:add_precess_time_header:65 - (False, 'app not exists')
+2021-11-29 14:38:48.072 | ERROR    | main:add_precess_time_header:69 - -----
+2021-11-29 14:39:27.301 | INFO     | main:validation_exception_handler:127 - ('body', 0)
+2021-11-29 14:39:27.305 | ERROR    | main:add_precess_time_header:64 - -----
+2021-11-29 14:39:27.311 | ERROR    | main:add_precess_time_header:65 - (False, 'app not exists')
+2021-11-29 14:39:27.314 | ERROR    | main:add_precess_time_header:69 - -----
+2021-11-29 14:42:01.891 | INFO     | main:validation_exception_handler:128 - ('body', 0)
+2021-11-29 14:42:01.894 | ERROR    | main:add_precess_time_header:64 - -----
+2021-11-29 14:42:01.897 | ERROR    | main:add_precess_time_header:65 - (False, 'app not exists')
+2021-11-29 14:42:01.900 | ERROR    | main:add_precess_time_header:67 - Headers({'host': 'localhost:5005', 'user-agent': 'python-requests/2.22.0', 'accept-encoding': 'gzip, deflate', 'accept': '*/*', 'connection': 'keep-alive', 'x-auth-appid': '3S2a6b1E', 'x-auth-sign': '6e8778a28eb66440947835b972a14647461c2d00', 'x-auth-timestamp': '1638168119', 'content-type': 'application/json', 'content-length': '134'})
+2021-11-29 14:42:01.902 | ERROR    | main:add_precess_time_header:70 - -----
+2021-11-29 14:43:50.304 | INFO     | main:validation_exception_handler:128 - ('body', 0)
+2021-11-29 14:43:50.309 | ERROR    | main:add_precess_time_header:64 - -----
+2021-11-29 14:43:50.313 | ERROR    | main:add_precess_time_header:65 - (True, '')
+2021-11-29 14:43:50.316 | ERROR    | main:add_precess_time_header:67 - Headers({'host': 'localhost:5005', 'user-agent': 'python-requests/2.22.0', 'accept-encoding': 'gzip, deflate', 'accept': '*/*', 'connection': 'keep-alive', 'x-auth-appid': '3S2a6b1E', 'x-auth-sign': '595b146f79ec74538b44cd8dc9c6d64948618103', 'x-auth-timestamp': '1638168228', 'content-type': 'application/json', 'content-length': '134'})
+2021-11-29 14:43:50.317 | ERROR    | main:add_precess_time_header:70 - -----
+2021-11-29 14:46:39.923 | INFO     | main:validation_exception_handler:128 - ('body', 0)
+2021-11-29 14:46:39.930 | ERROR    | main:add_precess_time_header:64 - -----
+2021-11-29 14:46:39.936 | ERROR    | main:add_precess_time_header:65 - (True, '')
+2021-11-29 14:46:39.943 | ERROR    | main:add_precess_time_header:67 - Headers({'host': 'localhost:5005', 'user-agent': 'python-requests/2.22.0', 'accept-encoding': 'gzip, deflate', 'accept': '*/*', 'connection': 'keep-alive', 'x-auth-appid': '3S2a6b1E', 'x-auth-sign': 'd69ffa0795b434615e5e2e4bf1db9f30e36a4890', 'x-auth-timestamp': '1638168397', 'content-type': 'application/json', 'content-length': '134'})
+2021-11-29 14:46:39.945 | ERROR    | main:add_precess_time_header:70 - -----
+2021-11-29 14:47:26.265 | ERROR    | main:add_precess_time_header:65 - (True, '')
+2021-11-29 14:47:26.267 | ERROR    | main:add_precess_time_header:67 - Headers({'host': 'localhost:5005', 'user-agent': 'python-requests/2.22.0', 'accept-encoding': 'gzip, deflate', 'accept': '*/*', 'connection': 'keep-alive', 'x-auth-appid': '3S2a6b1E', 'x-auth-sign': 'cd5c4dd28b5e669cf77c5743866becfa19cc2315', 'x-auth-timestamp': '1638168444', 'content-type': 'application/json', 'content-length': '310'})
+2021-11-29 14:47:26.271 | ERROR    | main:add_precess_time_header:70 - -----
+2021-11-29 14:48:00.715 | ERROR    | main:add_precess_time_header:65 - (True, '')
+2021-11-29 14:48:00.717 | ERROR    | main:add_precess_time_header:67 - Headers({'host': 'localhost:5005', 'user-agent': 'python-requests/2.22.0', 'accept-encoding': 'gzip, deflate', 'accept': '*/*', 'connection': 'keep-alive', 'x-auth-appid': '3S2a6b1E', 'x-auth-sign': '87950ebf472cca2e1e667afb68f9260cfc37b6ee', 'x-auth-timestamp': '1638168478', 'content-type': 'application/json', 'content-length': '310'})
+2021-11-29 14:48:00.720 | ERROR    | main:add_precess_time_header:70 - -----
+2021-11-29 14:52:12.558 | ERROR    | main:add_precess_time_header:65 - (False, 'app not exists')
+2021-11-29 14:52:12.560 | ERROR    | main:add_precess_time_header:67 - Headers({'host': 'localhost:5005', 'connection': 'keep-alive', 'content-length': '414', 'sec-ch-ua': '" Not A;Brand";v="99", "Chromium";v="96", "Google Chrome";v="96"', 'accept': 'application/json', 'content-type': 'application/json', 'sec-ch-ua-mobile': '?0', 'user-agent': 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Safari/537.36', 'sec-ch-ua-platform': '"Windows"', 'origin': 'http://localhost:5005', 'sec-fetch-site': 'same-origin', 'sec-fetch-mode': 'cors', 'sec-fetch-dest': 'empty', 'referer': 'http://localhost:5005/docs', 'accept-encoding': 'gzip, deflate, br', 'accept-language': 'zh-CN,zh;q=0.9,en;q=0.8,ja;q=0.7'})
+2021-11-29 14:52:12.566 | ERROR    | main:add_precess_time_header:70 - -----
+2021-11-29 14:53:31.873 | ERROR    | main:add_precess_time_header:65 - (True, '')
+2021-11-29 14:53:31.876 | ERROR    | main:add_precess_time_header:67 - Headers({'host': 'localhost:5005', 'user-agent': 'python-requests/2.22.0', 'accept-encoding': 'gzip, deflate', 'accept': '*/*', 'connection': 'keep-alive', 'x-auth-appid': '3S2a6b1E', 'x-auth-sign': '767fe85bd4585db1ed57599c0332081712a4b533', 'x-auth-timestamp': '1638168809', 'content-type': 'application/json', 'content-length': '310'})
+2021-11-29 14:53:31.881 | ERROR    | main:add_precess_time_header:70 - -----
+2021-11-29 14:54:25.464 | ERROR    | main:add_precess_time_header:65 - (True, '')
+2021-11-29 14:54:25.466 | ERROR    | main:add_precess_time_header:67 - Headers({'host': 'localhost:5005', 'user-agent': 'python-requests/2.22.0', 'accept-encoding': 'gzip, deflate', 'accept': '*/*', 'connection': 'keep-alive', 'x-auth-appid': '3S2a6b1E', 'x-auth-sign': '6c5209ae578973f21dc022b6ee0fe3a02f175a2f', 'x-auth-timestamp': '1638168863', 'content-type': 'application/json', 'content-length': '310'})
+2021-11-29 14:54:25.469 | ERROR    | main:add_precess_time_header:70 - -----
+2021-11-29 14:57:11.520 | ERROR    | main:add_precess_time_header:65 - (True, '')
+2021-11-29 14:57:11.522 | ERROR    | main:add_precess_time_header:67 - Headers({'host': 'localhost:5005', 'user-agent': 'python-requests/2.22.0', 'accept-encoding': 'gzip, deflate', 'accept': '*/*', 'connection': 'keep-alive', 'x-auth-appid': '3S2a6b1E', 'x-auth-sign': '83608c37a62a02fb9c51d9b66830d352785d78f4', 'x-auth-timestamp': '1638169029', 'content-type': 'application/json', 'content-length': '310'})
+2021-11-29 14:57:11.525 | ERROR    | main:add_precess_time_header:70 - -----
+2021-11-29 14:59:37.266 | ERROR    | main:add_precess_time_header:65 - -----
+2021-11-29 14:59:37.268 | ERROR    | main:add_precess_time_header:66 - (True, '')
+2021-11-29 14:59:37.271 | ERROR    | main:add_precess_time_header:68 - Headers({'host': 'localhost:5005', 'user-agent': 'python-requests/2.22.0', 'accept-encoding': 'gzip, deflate', 'accept': '*/*', 'connection': 'keep-alive', 'x-auth-appid': '3S2a6b1E', 'x-auth-sign': '4c5e3244e783455b6e518d7dab7e71320dbcdadd', 'x-auth-timestamp': '1638169175', 'content-type': 'application/json', 'content-length': '134'})
+2021-11-29 14:59:37.277 | ERROR    | main:add_precess_time_header:71 - -----
+2021-11-29 14:59:42.323 | ERROR    | main:validation_exception_handler:134 - Traceback (most recent call last):
+  File "C:\python37\lib\site-packages\fastapi\routing.py", line 205, in app
+    json_body = await request.json()
+  File "C:\python37\lib\site-packages\starlette\requests.py", line 235, in json
+    self._json = json.loads(body)
+  File "C:\python37\lib\json\__init__.py", line 348, in loads
+    return _default_decoder.decode(s)
+  File "C:\python37\lib\json\decoder.py", line 337, in decode
+    obj, end = self.raw_decode(s, idx=_w(s, 0).end())
+  File "C:\python37\lib\json\decoder.py", line 355, in raw_decode
+    raise JSONDecodeError("Expecting value", s, err.value) from None
+json.decoder.JSONDecodeError: Expecting value: line 1 column 1 (char 0)
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\python37\lib\site-packages\starlette\exceptions.py", line 71, in __call__
+    await self.app(scope, receive, sender)
+  File "C:\python37\lib\site-packages\starlette\routing.py", line 656, in __call__
+    await route.handle(scope, receive, send)
+  File "C:\python37\lib\site-packages\starlette\routing.py", line 259, in handle
+    await self.app(scope, receive, send)
+  File "C:\python37\lib\site-packages\starlette\routing.py", line 61, in app
+    response = await func(request)
+  File "C:\python37\lib\site-packages\fastapi\routing.py", line 211, in app
+    raise RequestValidationError([ErrorWrapper(e, ("body", e.pos))], body=e.doc)
+fastapi.exceptions.RequestValidationError: 1 validation error for Request
+body -> 0
+  Expecting value: line 1 column 1 (char 0) (type=value_error.jsondecode; msg=Expecting value; doc=ui=username&ui=password&ui=email&ui=full_name&ui=age&ui=sex&uo=username&uo=password&uo=email&uo=full_name&uo=age&uo=sex&uo=menus&id2=0; pos=0; lineno=1; colno=1)
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "D:\workspace\git\for_test\fastapi_web\main.py", line 131, in validation_exception_handler
+    k1 = "#".join(v["loc"][1:])
+TypeError: sequence item 0: expected str instance, int found
+
+2021-11-29 14:59:42.327 | ERROR    | main:add_precess_time_header:65 - -----
+2021-11-29 14:59:42.329 | ERROR    | main:add_precess_time_header:66 - (True, '')
+2021-11-29 14:59:42.332 | ERROR    | main:add_precess_time_header:68 - Headers({'host': 'localhost:5005', 'user-agent': 'python-requests/2.22.0', 'accept-encoding': 'gzip, deflate', 'accept': '*/*', 'connection': 'keep-alive', 'x-auth-appid': '3S2a6b1E', 'x-auth-sign': '06f2cd0cb1b8f51c0150eb50654c00b2567c62c4', 'x-auth-timestamp': '1638169180', 'content-type': 'application/json', 'content-length': '134'})
+2021-11-29 14:59:42.334 | ERROR    | main:add_precess_time_header:71 - -----
+2021-11-29 15:00:45.192 | ERROR    | main:validation_exception_handler:134 - Traceback (most recent call last):
+  File "C:\python37\lib\site-packages\fastapi\routing.py", line 205, in app
+    json_body = await request.json()
+  File "C:\python37\lib\site-packages\starlette\requests.py", line 235, in json
+    self._json = json.loads(body)
+  File "C:\python37\lib\json\__init__.py", line 348, in loads
+    return _default_decoder.decode(s)
+  File "C:\python37\lib\json\decoder.py", line 337, in decode
+    obj, end = self.raw_decode(s, idx=_w(s, 0).end())
+  File "C:\python37\lib\json\decoder.py", line 355, in raw_decode
+    raise JSONDecodeError("Expecting value", s, err.value) from None
+json.decoder.JSONDecodeError: Expecting value: line 1 column 1 (char 0)
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\python37\lib\site-packages\starlette\exceptions.py", line 71, in __call__
+    await self.app(scope, receive, sender)
+  File "C:\python37\lib\site-packages\starlette\routing.py", line 656, in __call__
+    await route.handle(scope, receive, send)
+  File "C:\python37\lib\site-packages\starlette\routing.py", line 259, in handle
+    await self.app(scope, receive, send)
+  File "C:\python37\lib\site-packages\starlette\routing.py", line 61, in app
+    response = await func(request)
+  File "C:\python37\lib\site-packages\fastapi\routing.py", line 211, in app
+    raise RequestValidationError([ErrorWrapper(e, ("body", e.pos))], body=e.doc)
+fastapi.exceptions.RequestValidationError: 1 validation error for Request
+body -> 0
+  Expecting value: line 1 column 1 (char 0) (type=value_error.jsondecode; msg=Expecting value; doc=ui=username&ui=password&ui=email&ui=full_name&ui=age&ui=sex&uo=username&uo=password&uo=email&uo=full_name&uo=age&uo=sex&uo=menus&id2=0; pos=0; lineno=1; colno=1)
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "D:\workspace\git\for_test\fastapi_web\main.py", line 131, in validation_exception_handler
+    k1 = "#".join(v["loc"][1:])
+TypeError: sequence item 0: expected str instance, int found
+
+2021-11-29 15:00:45.202 | ERROR    | main:add_precess_time_header:65 - -----
+2021-11-29 15:00:45.209 | ERROR    | main:add_precess_time_header:66 - (True, '')
+2021-11-29 15:00:45.219 | ERROR    | main:add_precess_time_header:68 - Headers({'host': 'localhost:5005', 'user-agent': 'python-requests/2.22.0', 'accept-encoding': 'gzip, deflate', 'accept': '*/*', 'connection': 'keep-alive', 'x-auth-appid': '3S2a6b1E', 'x-auth-sign': 'f660c2b7ba958aff5f0620491f992526b0217506', 'x-auth-timestamp': '1638169243', 'content-type': 'application/json', 'content-length': '134'})
+2021-11-29 15:00:45.222 | ERROR    | main:add_precess_time_header:71 - -----
+2021-11-29 15:00:48.889 | ERROR    | main:validation_exception_handler:134 - Traceback (most recent call last):
+  File "C:\python37\lib\site-packages\fastapi\routing.py", line 205, in app
+    json_body = await request.json()
+  File "C:\python37\lib\site-packages\starlette\requests.py", line 235, in json
+    self._json = json.loads(body)
+  File "C:\python37\lib\json\__init__.py", line 348, in loads
+    return _default_decoder.decode(s)
+  File "C:\python37\lib\json\decoder.py", line 337, in decode
+    obj, end = self.raw_decode(s, idx=_w(s, 0).end())
+  File "C:\python37\lib\json\decoder.py", line 355, in raw_decode
+    raise JSONDecodeError("Expecting value", s, err.value) from None
+json.decoder.JSONDecodeError: Expecting value: line 1 column 1 (char 0)
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\python37\lib\site-packages\starlette\exceptions.py", line 71, in __call__
+    await self.app(scope, receive, sender)
+  File "C:\python37\lib\site-packages\starlette\routing.py", line 656, in __call__
+    await route.handle(scope, receive, send)
+  File "C:\python37\lib\site-packages\starlette\routing.py", line 259, in handle
+    await self.app(scope, receive, send)
+  File "C:\python37\lib\site-packages\starlette\routing.py", line 61, in app
+    response = await func(request)
+  File "C:\python37\lib\site-packages\fastapi\routing.py", line 211, in app
+    raise RequestValidationError([ErrorWrapper(e, ("body", e.pos))], body=e.doc)
+fastapi.exceptions.RequestValidationError: 1 validation error for Request
+body -> 0
+  Expecting value: line 1 column 1 (char 0) (type=value_error.jsondecode; msg=Expecting value; doc=ui=username&ui=password&ui=email&ui=full_name&ui=age&ui=sex&uo=username&uo=password&uo=email&uo=full_name&uo=age&uo=sex&uo=menus&id2=0; pos=0; lineno=1; colno=1)
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "D:\workspace\git\for_test\fastapi_web\main.py", line 131, in validation_exception_handler
+    k1 = "#".join(v["loc"][1:])
+TypeError: sequence item 0: expected str instance, int found
+
+2021-11-29 15:00:48.912 | ERROR    | main:add_precess_time_header:65 - -----
+2021-11-29 15:00:48.916 | ERROR    | main:add_precess_time_header:66 - (True, '')
+2021-11-29 15:00:48.919 | ERROR    | main:add_precess_time_header:68 - Headers({'host': 'localhost:5005', 'user-agent': 'python-requests/2.22.0', 'accept-encoding': 'gzip, deflate', 'accept': '*/*', 'connection': 'keep-alive', 'x-auth-appid': '3S2a6b1E', 'x-auth-sign': 'cae1c2caf37ed3018b7c01b0a11fe25f2b883a1a', 'x-auth-timestamp': '1638169246', 'content-type': 'application/json', 'content-length': '134'})
+2021-11-29 15:00:48.923 | ERROR    | main:add_precess_time_header:71 - -----
+2021-11-29 15:02:00.739 | ERROR    | main:add_precess_time_header:66 - (True, '')
+2021-11-29 15:02:00.742 | ERROR    | main:add_precess_time_header:68 - Headers({'host': 'localhost:5005', 'user-agent': 'python-requests/2.22.0', 'accept-encoding': 'gzip, deflate', 'accept': '*/*', 'connection': 'keep-alive', 'x-auth-appid': '3S2a6b1E', 'x-auth-sign': 'eaa064b18ba38e5bf6a9b3f0c30e09f89bd54a7b', 'x-auth-timestamp': '1638169318', 'content-type': 'application/json', 'content-length': '310'})
+2021-11-29 15:02:00.744 | ERROR    | main:add_precess_time_header:71 - -----
+2021-11-29 15:02:29.396 | ERROR    | main:add_precess_time_header:65 - -----
+2021-11-29 15:02:29.401 | ERROR    | main:add_precess_time_header:66 - (True, '')
+2021-11-29 15:02:29.405 | ERROR    | main:add_precess_time_header:68 - Headers({'host': 'localhost:5005', 'user-agent': 'python-requests/2.22.0', 'accept-encoding': 'gzip, deflate', 'accept': '*/*', 'connection': 'keep-alive', 'x-auth-appid': '3S2a6b1E', 'x-auth-sign': '3e3794f6596c3d38be778fba0a58f8b100549b0d', 'x-auth-timestamp': '1638169347', 'content-type': 'application/json', 'content-length': '310'})
+2021-11-29 15:02:29.413 | ERROR    | main:add_precess_time_header:71 - -----

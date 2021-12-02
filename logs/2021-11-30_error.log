@@ -1,0 +1,131 @@
+2021-11-30 15:04:54.285 | INFO     | common.jwt_auth:jwt_auth:51 - {'sub': 'user1', 'exp': 1638258762}
+2021-11-30 15:33:47.209 | INFO     | common.jwt_auth:create_token:35 - {'sub': 'user1', 'exp': datetime.datetime(2021, 11, 30, 8, 33, 47, 209158)}
+2021-11-30 15:35:32.106 | INFO     | common.jwt_auth:jwt_auth:51 - {'sub': 'user1', 'exp': 1638261227}
+2021-11-30 15:50:30.096 | INFO     | common.jwt_auth:create_token:37 - {'sub': 'user1', 'exp': datetime.datetime(2021, 11, 30, 8, 50, 30, 96702)}
+2021-11-30 15:52:00.463 | INFO     | common.jwt_auth:jwt_auth:66 - Traceback (most recent call last):
+  File "D:\workspace\git\for_test\fastapi_web\common\jwt_auth.py", line 56, in jwt_auth
+    if (int(time.time()) - int(exp)) > TOKEN_TIMEOUT:
+TypeError: int() argument must be a string, a bytes-like object or a number, not 'NoneType'
+
+2021-11-30 15:52:59.229 | INFO     | common.jwt_auth:jwt_auth:59 - {'sub': 'user1', 'exp': 1638261227}
+2021-11-30 15:53:38.952 | ERROR    | common.jwt_auth:jwt_auth:66 - Traceback (most recent call last):
+  File "D:\workspace\git\for_test\fastapi_web\common\jwt_auth.py", line 55, in jwt_auth
+    logger.info(time.time(),int(exp))
+  File "C:\python37\lib\site-packages\loguru\_logger.py", line 1971, in info
+    __self._log("INFO", None, False, __self._options, __message, args, kwargs)
+  File "C:\python37\lib\site-packages\loguru\_logger.py", line 1948, in _log
+    log_record["message"] = message.format(*args, **kwargs)
+AttributeError: 'float' object has no attribute 'format'
+
+2021-11-30 15:54:24.192 | INFO     | common.jwt_auth:jwt_auth:55 - 1638258864.192769,1638261227
+2021-11-30 15:54:24.195 | INFO     | common.jwt_auth:jwt_auth:59 - {'sub': 'user1', 'exp': 1638261227}
+2021-11-30 15:57:50.976 | INFO     | common.jwt_auth:create_token:38 - {'sub': 'user1', 'exp': datetime.datetime(2021, 11, 30, 7, 58, 0, 976844)}
+2021-11-30 15:59:34.183 | ERROR    | common.jwt_auth:jwt_auth:66 - Traceback (most recent call last):
+  File "D:\workspace\git\for_test\fastapi_web\common\jwt_auth.py", line 52, in jwt_auth
+    payload = jwt.decode(token, SECRET_KEY, algorithms=[ALGORITHM])
+  File "C:\python37\lib\site-packages\jwt\api_jwt.py", line 119, in decode
+    decoded = self.decode_complete(jwt, key, algorithms, options, **kwargs)
+  File "C:\python37\lib\site-packages\jwt\api_jwt.py", line 106, in decode_complete
+    self._validate_claims(payload, merged_options, **kwargs)
+  File "C:\python37\lib\site-packages\jwt\api_jwt.py", line 142, in _validate_claims
+    self._validate_exp(payload, now, leeway)
+  File "C:\python37\lib\site-packages\jwt\api_jwt.py", line 177, in _validate_exp
+    raise ExpiredSignatureError("Signature has expired")
+jwt.exceptions.ExpiredSignatureError: Signature has expired
+
+2021-11-30 16:02:37.845 | ERROR    | common.jwt_auth:jwt_auth:69 - Traceback (most recent call last):
+  File "D:\workspace\git\for_test\fastapi_web\common\jwt_auth.py", line 52, in jwt_auth
+    payload = jwt.decode(token, SECRET_KEY, algorithms=[ALGORITHM])
+  File "C:\python37\lib\site-packages\jwt\api_jwt.py", line 119, in decode
+    decoded = self.decode_complete(jwt, key, algorithms, options, **kwargs)
+  File "C:\python37\lib\site-packages\jwt\api_jwt.py", line 106, in decode_complete
+    self._validate_claims(payload, merged_options, **kwargs)
+  File "C:\python37\lib\site-packages\jwt\api_jwt.py", line 142, in _validate_claims
+    self._validate_exp(payload, now, leeway)
+  File "C:\python37\lib\site-packages\jwt\api_jwt.py", line 177, in _validate_exp
+    raise ExpiredSignatureError("Signature has expired")
+jwt.exceptions.ExpiredSignatureError: Signature has expired
+
+2021-11-30 16:02:47.568 | ERROR    | common.jwt_auth:jwt_auth:69 - Traceback (most recent call last):
+  File "D:\workspace\git\for_test\fastapi_web\common\jwt_auth.py", line 52, in jwt_auth
+    payload = jwt.decode(token, SECRET_KEY, algorithms=[ALGORITHM])
+  File "C:\python37\lib\site-packages\jwt\api_jwt.py", line 119, in decode
+    decoded = self.decode_complete(jwt, key, algorithms, options, **kwargs)
+  File "C:\python37\lib\site-packages\jwt\api_jwt.py", line 106, in decode_complete
+    self._validate_claims(payload, merged_options, **kwargs)
+  File "C:\python37\lib\site-packages\jwt\api_jwt.py", line 142, in _validate_claims
+    self._validate_exp(payload, now, leeway)
+  File "C:\python37\lib\site-packages\jwt\api_jwt.py", line 177, in _validate_exp
+    raise ExpiredSignatureError("Signature has expired")
+jwt.exceptions.ExpiredSignatureError: Signature has expired
+
+2021-11-30 16:03:58.787 | ERROR    | common.jwt_auth:jwt_auth:67 - Traceback (most recent call last):
+  File "D:\workspace\git\for_test\fastapi_web\common\jwt_auth.py", line 53, in jwt_auth
+    payload = jwt.decode(token, SECRET_KEY, algorithms=[ALGORITHM])
+  File "C:\python37\lib\site-packages\jwt\api_jwt.py", line 119, in decode
+    decoded = self.decode_complete(jwt, key, algorithms, options, **kwargs)
+  File "C:\python37\lib\site-packages\jwt\api_jwt.py", line 106, in decode_complete
+    self._validate_claims(payload, merged_options, **kwargs)
+  File "C:\python37\lib\site-packages\jwt\api_jwt.py", line 142, in _validate_claims
+    self._validate_exp(payload, now, leeway)
+  File "C:\python37\lib\site-packages\jwt\api_jwt.py", line 177, in _validate_exp
+    raise ExpiredSignatureError("Signature has expired")
+jwt.exceptions.ExpiredSignatureError: Signature has expired
+
+2021-11-30 16:04:27.267 | ERROR    | common.jwt_auth:jwt_auth:67 - Traceback (most recent call last):
+  File "D:\workspace\git\for_test\fastapi_web\common\jwt_auth.py", line 53, in jwt_auth
+    payload = jwt.decode(token, SECRET_KEY, algorithms=[ALGORITHM])
+  File "C:\python37\lib\site-packages\jwt\api_jwt.py", line 119, in decode
+    decoded = self.decode_complete(jwt, key, algorithms, options, **kwargs)
+  File "C:\python37\lib\site-packages\jwt\api_jwt.py", line 106, in decode_complete
+    self._validate_claims(payload, merged_options, **kwargs)
+  File "C:\python37\lib\site-packages\jwt\api_jwt.py", line 142, in _validate_claims
+    self._validate_exp(payload, now, leeway)
+  File "C:\python37\lib\site-packages\jwt\api_jwt.py", line 177, in _validate_exp
+    raise ExpiredSignatureError("Signature has expired")
+jwt.exceptions.ExpiredSignatureError: Signature has expired
+
+2021-11-30 16:04:48.605 | INFO     | common.jwt_auth:jwt_auth:56 - 1638259488.605677,1638261227
+2021-11-30 16:04:48.607 | INFO     | common.jwt_auth:jwt_auth:60 - {'sub': 'user1', 'exp': 1638261227}
+2021-11-30 16:07:46.012 | INFO     | common.jwt_auth:jwt_auth:56 - 1638259666.012175,1638261227
+2021-11-30 16:07:46.014 | INFO     | common.jwt_auth:jwt_auth:60 - {'sub': 'user1', 'exp': 1638261227}
+2021-11-30 16:08:01.513 | ERROR    | common.jwt_auth:jwt_auth:67 - Traceback (most recent call last):
+  File "D:\workspace\git\for_test\fastapi_web\common\jwt_auth.py", line 53, in jwt_auth
+    payload = jwt.decode(token, SECRET_KEY, algorithms=[ALGORITHM])
+  File "C:\python37\lib\site-packages\jwt\api_jwt.py", line 119, in decode
+    decoded = self.decode_complete(jwt, key, algorithms, options, **kwargs)
+  File "C:\python37\lib\site-packages\jwt\api_jwt.py", line 106, in decode_complete
+    self._validate_claims(payload, merged_options, **kwargs)
+  File "C:\python37\lib\site-packages\jwt\api_jwt.py", line 142, in _validate_claims
+    self._validate_exp(payload, now, leeway)
+  File "C:\python37\lib\site-packages\jwt\api_jwt.py", line 177, in _validate_exp
+    raise ExpiredSignatureError("Signature has expired")
+jwt.exceptions.ExpiredSignatureError: Signature has expired
+
+2021-11-30 16:12:45.205 | ERROR    | common.jwt_auth:jwt_auth:70 - Traceback (most recent call last):
+  File "C:\python37\lib\site-packages\jwt\api_jws.py", line 196, in _load
+    header_data = base64url_decode(header_segment)
+  File "C:\python37\lib\site-packages\jwt\utils.py", line 33, in base64url_decode
+    return base64.urlsafe_b64decode(input)
+  File "C:\python37\lib\base64.py", line 133, in urlsafe_b64decode
+    return b64decode(s)
+  File "C:\python37\lib\base64.py", line 87, in b64decode
+    return binascii.a2b_base64(s)
+binascii.Error: Invalid base64-encoded string: number of data characters (1) cannot be 1 more than a multiple of 4
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "D:\workspace\git\for_test\fastapi_web\common\jwt_auth.py", line 53, in jwt_auth
+    payload = jwt.decode(token, SECRET_KEY, algorithms=[ALGORITHM])
+  File "C:\python37\lib\site-packages\jwt\api_jwt.py", line 119, in decode
+    decoded = self.decode_complete(jwt, key, algorithms, options, **kwargs)
+  File "C:\python37\lib\site-packages\jwt\api_jwt.py", line 95, in decode_complete
+    **kwargs,
+  File "C:\python37\lib\site-packages\jwt\api_jws.py", line 149, in decode_complete
+    payload, signing_input, header, signature = self._load(jwt)
+  File "C:\python37\lib\site-packages\jwt\api_jws.py", line 198, in _load
+    raise DecodeError("Invalid header padding") from err
+jwt.exceptions.DecodeError: Invalid header padding
+
+2021-11-30 16:23:01.204 | INFO     | common.appid_auth:api_auth:43 - 956245ea034d4aa036301ed315ce34e90a92b285
